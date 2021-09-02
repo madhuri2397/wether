@@ -1,6 +1,7 @@
 <?php
 $status="";
 $msg="";
+
 $city="";
 if(isset($_POST['submit'])){
     $city=$_POST['city'];
